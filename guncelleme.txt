@@ -1,3 +1,5 @@
+Loader sürümü: 0.1 (En Güncel sürümü kullandığınızdan emin olun!)
+
 [2.05.2019 02:24] - Güncelleme notları bölümü eklendi
 
 [1.05.2019 22:43] - Loader arayüzü değiştirildi
