@@ -1,1 +1,5 @@
-[1.05.2019 22:43] - Yeni loader projesi başlatıldı!
+[2.05.2019 02:24] - Güncelleme notları bölümü eklendi
+
+[1.05.2019 22:43] - Loader arayüzü değiştirildi
+
+[1.05.2019 20:11] - Hile menüsünün tasarımı tamamen yeni nesile dönmüştür
