@@ -1,7 +1,11 @@
-Loader sürümü: 0.1 (En Güncel sürümü kullandığınızdan emin olun!)
+Loader sürümü: 1.0 (En Güncel sürümü kullandığınızdan emin olun!)
+
+[5.05.2019 17:56] - Loader baştan aşağı değiştirildi!
 
 [2.05.2019 02:24] - Güncelleme notları bölümü eklendi
 
 [1.05.2019 22:43] - Loader arayüzü değiştirildi
 
 [1.05.2019 20:11] - Hile menüsünün tasarımı tamamen yeni nesile dönmüştür
+
+[29.03.2019 11:52] - Loader 0.1 Yayınlandı!
