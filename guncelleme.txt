@@ -1,4 +1,8 @@
-Loader sürümü: 1.0 (En Güncel sürümü kullandığınızdan emin olun!)
+Loader sürümü: 1.5 (En Güncel sürümü kullandığınızdan emin olun!)
+
+YENİ SÜRÜM MEVCUT!  "eliware.xyz" ADRESİNDEN YENİ SÜRÜMÜ İNDİR!
+
+[13.05.2019 20:26] - Loader tasarımı değiştirildi!
 
 [5.05.2019 17:56] - Loader baştan aşağı değiştirildi!
 
@@ -8,4 +12,4 @@ Loader sürümü: 1.0 (En Güncel sürümü kullandığınızdan emin olun!)
 
 [1.05.2019 20:11] - Hile menüsünün tasarımı tamamen yeni nesile dönmüştür
 
-[29.03.2019 11:52] - Loader 0.1 Yayınlandı!
+[14.03.2019 11:52] - Loader 0.1 Yayınlandı!
