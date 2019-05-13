@@ -2,7 +2,7 @@ Loader sürümü: 1.5 (En Güncel sürümü kullandığınızdan emin olun!)
 
 YENİ SÜRÜM MEVCUT!  "eliware.xyz" ADRESİNDEN YENİ SÜRÜMÜ İNDİR!
 
-[13.05.2019 20:26] - Loader tasarımı değiştirildi! & Loaderi sürükleme seçeneği eklendi!
+[13.05.2019 19:52] - Loader tasarımı değiştirildi! & Loaderi sürükleme seçeneği eklendi!
 
 [5.05.2019 17:56] - Loader baştan aşağı değiştirildi!
 
