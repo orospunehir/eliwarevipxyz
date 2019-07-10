@@ -1,6 +1,4 @@
-Loader sürümü: 1.5 (En Güncel sürümü kullandığınızdan emin olun!)
-
-YENİ SÜRÜM MEVCUT!  "eliware.xyz" ADRESİNDEN YENİ SÜRÜMÜ İNDİR!
+[10.07.2019 03:07] - EliWare 2.0 BETA Çalışmaları başlatıldı!
 
 [13.05.2019 19:52] - Loader tasarımı değiştirildi! & Loaderi sürükleme seçeneği eklendi!
 
