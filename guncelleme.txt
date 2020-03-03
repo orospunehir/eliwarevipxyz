@@ -1,19 +1,11 @@
-[19.07.2019 03:59] - Loader 2.0 Yayınlandı!
+[19.07.2019 03:59] - nn
 
-[13.07.2019 16:59] - EliWare 2.0 Çıktı!
+[13.07.2019 16:59] - eirene the ampicker
 
-[10.07.2019 03:07] - EliWare 2.0 BETA Test aşamasına çıkartıldı!
+[10.07.2019 03:07] - gay75
 
-[17.06.2019 18:59] - EliWare 2.0 Çalışmaları başlatıldı!
+[17.06.2019 18:59] - remaik
 
-[13.05.2019 19:52] - Loader tasarımı değiştirildi! & Loaderi sürükleme seçeneği eklendi!
+[13.05.2019 19:52] - ananın amı
 
-[5.05.2019 17:56] - Loader baştan aşağı değiştirildi!
 
-[2.05.2019 02:24] - Güncelleme notları bölümü eklendi
-
-[1.05.2019 22:43] - Loader arayüzü değiştirildi
-
-[1.05.2019 20:11] - Hile menüsünün tasarımı tamamen yeni nesile dönmüştür
-
-[14.03.2019 11:52] - Loader 0.1 Yayınlandı!
